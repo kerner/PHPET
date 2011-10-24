@@ -1,0 +1,12 @@
+/**
+ * Tags HTML
+ */
+body {margin:0;padding:0;}
+h1,h2,h3,h4,h5,h6 {margin:0;padding:0;}
+a {text-decoration:none;}
+/**
+ * top-bar
+ */
+ div#top-bar {background-color:#333333;padding:15px 0;width:100%;}
+ div#top-bar a {color:#ffffff;margin:0 30px;text-shadow:1px 1px 2px #dedede;}
+
